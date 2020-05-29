@@ -10,7 +10,7 @@ namespace TesteGit
             Console.WriteLine("bom dia!");
             Console.WriteLine("Como você esta hoje?");
             Console.WriteLine("Tenha um bom dia!");
-            Console.WriteLine("Tchau!");
+            Console.WriteLine("tchau nada");
             Console.ReadLine();
         }
     }
